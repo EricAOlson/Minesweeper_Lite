@@ -1,0 +1,31 @@
+Watson
+3 0 10SweepMaster 3000 
+3 0 20Deep Blue
+3 0 30Mycroft Holmes 
+3 0 45GLaDOS 
+3 1 0Boris 
+3 1 30Deep Thought 
+3 3 00Hal 9000 
+2 0 0Two-Toed Tim 
+1 0 0Stumpy 
+0 0 0Watson
+5 0 30SweepMaster 3000 
+5 0 45Deep Blue 
+5 1 00Mycroft Holmes 
+5 1 30GLaDOS 
+5 2 0Boris 
+5 4 0Deep Thought 
+4 0 00Hal 9000 
+3 0 0Two-Toed Tim 
+1 0 0Stumpy 
+0 0 0Watson
+8 1 00SweepMaster 3000 
+8 1 30Deep Blue 
+8 2 00Mycroft Holmes 
+8 3 30GLaDOS 
+8 6 0Boris 
+7 0 0Deep Thought 
+5 0 0Hal 9000 
+3 0 0Two-Toed Tim 
+1 0 0Stumpy 
+0 0 0
